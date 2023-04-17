@@ -1,5 +1,5 @@
 print("Digite um número")
-y = int(input("> "))
+y = int(input(">>> "))
 x=0
 while True:
     x=x+1
